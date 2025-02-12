@@ -1,54 +1,88 @@
-<header>
+About A-CSM Certification
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+The Advanced Certified ScrumMaster (A-CSM) is the next step for Certified ScrumMasters (CSMs) looking to enhance their Scrum knowledge, improve their facilitation and coaching skills, and take their Agile expertise to the next level. This certification is offered by Scrum Alliance and is designed for experienced Scrum professionals who want to lead Agile teams more effectively.
 
-# GitHub Pages
+Why Choose Our A-CSM Course?
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+At PowerAgile, we provide top-tier A-CSM training, empowering ScrumMasters with advanced facilitation techniques, Agile coaching skills, and deeper insights into team dynamics. Our training helps participants:
 
-</header>
+Master servant leadership principles
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+Enhance team collaboration and conflict resolution
 
-## Step 1: Enable GitHub Pages
+Strengthen Agile coaching and facilitation skills
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+Develop strategies for scaling Scrum and Agile adoption
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+Gain actionable techniques to improve sprint planning and execution
 
-### :keyboard: Activity: Enable GitHub Pages
+Who Should Attend?
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+This course is ideal for:
 
-<footer>
+Certified ScrumMasters (CSMs) aiming to advance their career
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Agile Coaches and Consultants
 
----
+Project Managers transitioning to Agile roles
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Scrum Professionals looking to deepen their knowledge
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Team Leaders and Managers supporting Agile teams
 
-</footer>
+Prerequisites
+
+To enroll in the A-CSM course, you must:
+
+Hold an active Certified ScrumMaster (CSM) certification from Scrum Alliance
+
+Have at least one year of work experience as a ScrumMaster
+
+Key Learning Objectives
+
+Advanced ScrumMastery: Deep dive into the core responsibilities of an advanced ScrumMaster.
+
+Facilitation & Coaching: Learn powerful techniques to guide teams towards high performance.
+
+Scaling Scrum: Understand frameworks and strategies for implementing Scrum at scale.
+
+Agile Leadership: Develop leadership skills that foster Agile transformation in organizations.
+
+Conflict Resolution: Master methods to resolve team conflicts and improve collaboration.
+
+Organizational Change: Learn how to drive Agile adoption beyond teams.
+
+Course Format
+
+Live Virtual Classroom: Interactive online sessions led by experienced Certified Scrum Trainers (CSTs).
+
+Engaging Workshops: Hands-on exercises, case studies, and real-world applications.
+
+Collaborative Learning: Peer discussions, breakout rooms, and coaching simulations.
+
+Certification Process
+
+Upon successful completion of the course, you will:
+
+Receive the Advanced Certified ScrumMaster (A-CSM) certification from Scrum Alliance.
+
+Earn SEUs (Scrum Education Units) towards your Scrum Alliance renewal.
+
+Enhance your career prospects with a globally recognized certification.
+
+Why PowerAgile?
+
+Experienced Trainers: Learn from industry-leading Certified Scrum Trainers (CSTs) with real-world Agile experience.
+
+Interactive & Practical Training: Engaging, hands-on sessions to ensure deep learning and retention.
+
+Post-Training Support: Access to mentoring, community events, and Agile resources.
+
+Register Now
+
+Take your ScrumMaster skills to the next level with our A-CSM Certification Training.
+
+[Enroll Today](https://www.poweragile.com/a-csm-training-certification/)!
+
+For more details, contact us at trainings@poweragile.com or visit our website: [PowerAgile.](https://www.poweragile.com/a-csm-training-certification/)
+
